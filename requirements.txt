@@ -1,0 +1,14 @@
+fastapi
+jupyter
+matplotlib
+mediapipe>=0.10.35
+numpy
+onnx
+opencv-contrib-python
+Pillow
+python-multipart
+pytesseract
+pyzbar
+qrcode[pil]
+scikit-learn
+uvicorn[standard]

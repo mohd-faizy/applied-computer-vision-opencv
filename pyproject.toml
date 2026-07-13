@@ -1,0 +1,22 @@
+[project]
+name = "opencv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.139.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "mediapipe>=0.10.35",
+    "numpy>=2.5.1",
+    "onnx>=1.22.0",
+    "opencv-contrib-python<5.0.0",
+    "pillow>=12.3.0",
+    "pytesseract>=0.3.13",
+    "python-multipart>=0.0.32",
+    "pyzbar>=0.1.9",
+    "qrcode[pil]>=8.2",
+    "scikit-learn>=1.9.0",
+    "uvicorn[standard]>=0.50.0",
+]
